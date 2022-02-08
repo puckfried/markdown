@@ -2,4 +2,4 @@
 
 ## Checkboxes
 
-[] externern Link
+[ ] externern Link
