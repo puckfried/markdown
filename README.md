@@ -2,5 +2,5 @@
 
 ## Checkboxes
 
-- [ ] [externern Link](www.google.de)
+- [ ] [externern Link](https://docs.github.com/de)
 - [ ] interner Link
