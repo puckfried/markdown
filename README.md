@@ -2,5 +2,5 @@
 
 ## Checkboxes
 
-- [ ] externern Link
+- [ ] [externern Link](www.google.de)
 - [ ] interner Link
